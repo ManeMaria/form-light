@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+  /** a div que altera o estilo do meno de signIN está no styles do form */
   padding: 0;
   width: 300px;
 

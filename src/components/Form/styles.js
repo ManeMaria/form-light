@@ -15,6 +15,7 @@ export const Container = styled.div`
     }
   }
   > .divDiv {
+    /** div do estilo do menu de signIn */
     position: absolute;
     margin-left: 10px;
     width: 300px;
