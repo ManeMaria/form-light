@@ -127,5 +127,17 @@ export const Container = styled.div`
         width: 60vw;
       }
     }
+
+    .divDiv {
+      width: 300px;
+      height: 170px;
+      border-radius: 0;
+      box-shadow: none;
+      border: 1px solid rgba(32, 87, 05, 0.5);
+    }
+    div.hide {
+      width: 0;
+      border: none;
+    }
   }
 `;
