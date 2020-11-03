@@ -1,1 +1,1 @@
-URL: https://manemaria.github.io/form-light/
+URL: https://form-light-705vbfuo1.vercel.app/
