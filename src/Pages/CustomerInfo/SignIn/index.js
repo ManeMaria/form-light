@@ -20,7 +20,7 @@ function SinIgn() {
       toast.error('login ou senha inválido');
     }
     if (isThisLogin === 'ok' && isThisPassword === 'ok') {
-      history.push('/customerinfo');
+      history.push('/dashboard');
     }
   }; // verifica o login e a senha
 

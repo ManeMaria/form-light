@@ -7,13 +7,13 @@ import Routes from './Routes';
 
 function App() {
   return (
-    <>
+    <div>
       <Router history={history}>
         <GlobalStyles />
         <ToastContainer position="top-center" />
         <Routes />
       </Router>
-    </>
+    </div>
   );
 }
 export default App;
